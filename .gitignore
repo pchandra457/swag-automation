@@ -1,0 +1,11 @@
+# IDE configuration
+.idea/
+
+# Python cache directories
+__pycache__/
+**/__pycache__/
+
+# Specific directory cache paths
+pages/__pycache__/
+tests/__pycache__/
+utils/__pycache__/

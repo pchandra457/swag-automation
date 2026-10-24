@@ -89,13 +89,14 @@ pip --version
 Clone the repository:
 
 ```
-git clone https://github.com/qm-rajat/saucedemo-automation.git
+git clone https://github.com/pchandra457/swag-automation.git
+
 ```
 
 Navigate to the project directory:
 
 ```
-cd saucedemo-automation
+cd swag-automation
 ```
 
 Install dependencies:
@@ -118,7 +119,7 @@ Example configuration:
 
 ```
 BASE_URL = "https://www.saucedemo.com/"
-USERNAME = "standard_user"
+USERNAME = "visual_user"
 PASSWORD = "secret_sauce"
 BROWSER = "chrome"
 ```
